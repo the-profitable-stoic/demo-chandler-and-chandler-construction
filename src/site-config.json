@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Chandler and Chandler Construction",
+    "phone": "+14028198981",
+    "category": "deck builder",
+    "city": "Omaha",
+    "state": "NE"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-mountain-bold",
+      "categoryGroup": "roofing",
+      "name": "Mountain Bold",
+      "recipeFile": "roofing/mountain-bold.astro",
+      "colors": {
+        "primary": "#1A3A52",
+        "primaryDark": "#0F2436",
+        "primaryLight": "#C8DDE8",
+        "secondary": "#2D5F7C",
+        "accent": "#FFC600",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1A3A52",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Omaha's Premier Deck Builders",
+      "heroSubline": "Crafting durable, beautiful decks for Nebraska homes. Expert design and construction built to last.",
+      "aboutTitle": "Built on Experience, Driven by Quality",
+      "aboutText": [
+        "Chandler and Chandler Construction started with a simple goal: to build decks that could withstand Nebraska's harsh weather and bring lasting enjoyment to families. Founded by two brothers with a passion for craftsmanship, we've grown from a small operation to a trusted name in the Omaha area.",
+        "We believe in doing things right the first time. That means using high-quality materials, employing skilled tradespeople, and paying meticulous attention to detail. Our commitment to excellence ensures that every deck we build is not only beautiful but also structurally sound and built to code.",
+        "We're proud to be a part of the Omaha community. We source materials locally whenever possible and actively support local charities and initiatives. Our success is tied to the success of our neighbors, and we're committed to giving back."
+      ],
+      "valueProps": [
+        {
+          "title": "Weather-Resistant Decks",
+          "description": "Built to endure Omaha's harsh winters and humid summers, ensuring longevity and minimizing maintenance."
+        },
+        {
+          "title": "Custom Design Solutions",
+          "description": "We work closely with you to create a deck that perfectly complements your home and lifestyle."
+        },
+        {
+          "title": "Expert Craftsmanship",
+          "description": "Our skilled team delivers impeccable workmanship, ensuring a structurally sound and visually stunning deck."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "No hidden fees or surprises. We provide clear, detailed quotes and stick to our word."
+        }
+      ],
+      "ctaHeadline": "Transform Your Outdoor Space",
+      "ctaSubline": "Get a free quote and start planning your dream deck today!"
+    },
+    "services": [
+      {
+        "slug": "deck-design",
+        "name": "Custom Deck Design",
+        "shortDescription": "Visualize your dream deck with our expert design services.",
+        "description": "Our custom deck design service is the foundation of a great outdoor space. We start by understanding your needs, lifestyle, and budget. We consider the architectural style of your home, the surrounding landscape, and the specific challenges of the Omaha climate, such as freeze-thaw cycles and heavy snowfall. \n\nUsing advanced design software, we create detailed 3D renderings that allow you to visualize your deck before construction begins. We'll work with you to choose the right materials, layout, and features, such as railings, stairs, and lighting. Our goal is to create a deck that is not only beautiful but also functional, safe, and built to last. We handle all necessary permits and ensure that your deck meets all local building codes.",
+        "process": [
+          "Step 1: Initial Consultation - Discuss your needs and vision for your deck.",
+          "Step 2: Site Assessment - Evaluate your property and identify any potential challenges.",
+          "Step 3: Design Development - Create 3D renderings and refine the design based on your feedback.",
+          "Step 4: Material Selection - Choose the right materials that fit your budget and aesthetic."
+        ],
+        "benefits": [
+          "Visualize your dream deck before construction.",
+          "Maximize your outdoor living space.",
+          "Increase your home's value.",
+          "Ensure code compliance and safety."
+        ],
+        "faq": [
+          {
+            "question": "How much does deck design cost?",
+            "answer": "The cost of deck design varies depending on the complexity of the project. We offer free consultations to provide you with a detailed quote."
+          },
+          {
+            "question": "How long does the design process take?",
+            "answer": "The design process typically takes 1-2 weeks, depending on the number of revisions required."
+          },
+          {
+            "question": "Do you handle permits?",
+            "answer": "Yes, we handle all necessary permits to ensure that your deck is built to code."
+          }
+        ]
+      },
+      {
+        "slug": "deck-construction",
+        "name": "Deck Construction & Installation",
+        "shortDescription": "Expert deck construction for lasting beauty and durability.",
+        "description": "Our deck construction and installation service is where your vision becomes a reality. We use only the highest-quality materials and employ skilled tradespeople with years of experience building decks in the Omaha area. We understand the unique challenges of the local climate and take extra precautions to ensure that your deck can withstand the elements. \n\nFrom pressure-treated lumber to composite decking, we offer a wide range of materials to suit your budget and aesthetic preferences. We pay meticulous attention to detail, ensuring that every board is perfectly aligned, every screw is properly tightened, and every railing is securely fastened. Our goal is to build a deck that is not only beautiful but also safe, structurally sound, and built to last for years to come.",
+        "process": [
+          "Step 1: Site Preparation - Prepare the site for construction, including excavation and grading.",
+          "Step 2: Foundation Installation - Install a solid foundation to support your deck.",
+          "Step 3: Framing - Build the frame of your deck using high-quality lumber.",
+          "Step 4: Decking Installation - Install the decking material of your choice."
+        ],
+        "benefits": [
+          "Enjoy a beautiful and durable deck for years to come.",
+          "Increase your home's value.",
+          "Enhance your outdoor living space.",
+          "Ensure code compliance and safety."
+        ],
+        "faq": [
+          {
+            "question": "How long does deck construction take?",
+            "answer": "The construction process typically takes 1-3 weeks, depending on the size and complexity of the project."
+          },
+          {
+            "question": "What type of materials do you use?",
+            "answer": "We offer a wide range of materials, including pressure-treated lumber, cedar, composite decking, and exotic hardwoods."
+          },
+          {
+            "question": "Do you offer a warranty?",
+            "answer": "Yes, we offer a comprehensive warranty on our workmanship and materials."
+          }
+        ]
+      },
+      {
+        "slug": "deck-repair",
+        "name": "Deck Repair & Restoration",
+        "shortDescription": "Extend the life of your deck with our expert repair services.",
+        "description": "Is your deck showing signs of wear and tear? Our deck repair and restoration service can restore your deck to its former glory. We handle everything from replacing damaged boards and railings to repairing structural issues and applying protective coatings. We understand the unique challenges of maintaining decks in the Omaha area, where harsh winters and humid summers can take a toll on wood and other materials. \n\nWe carefully inspect your deck to identify any problems and provide you with a detailed estimate of the repair costs. We use only high-quality materials and employ proven techniques to ensure that your deck is repaired properly and built to last. Whether you need a few minor repairs or a complete restoration, we're here to help.",
+        "process": [
+          "Step 1: Inspection - Thoroughly inspect your deck to identify any damage or problem areas.",
+          "Step 2: Assessment - Provide you with a detailed assessment of the repair needs and costs.",
+          "Step 3: Repair - Repair or replace damaged boards, railings, and other components.",
+          "Step 4: Restoration - Apply protective coatings to extend the life of your deck."
+        ],
+        "benefits": [
+          "Extend the life of your deck.",
+          "Improve the safety and appearance of your deck.",
+          "Save money compared to replacing your deck.",
+          "Protect your investment."
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my deck needs repair?",
+            "answer": "Signs that your deck needs repair include rotting wood, loose railings, wobbly stairs, and sagging boards."
+          },
+          {
+            "question": "How much does deck repair cost?",
+            "answer": "The cost of deck repair varies depending on the extent of the damage. We offer free inspections to provide you with a detailed quote."
+          },
+          {
+            "question": "Do you offer emergency deck repair services?",
+            "answer": "Yes, we offer emergency deck repair services for situations that pose an immediate safety hazard."
+          }
+        ]
+      },
+      {
+        "slug": "deck-staining",
+        "name": "Deck Staining & Sealing",
+        "shortDescription": "Protect your deck from the elements with our staining and sealing services.",
+        "description": "Protect your deck from the damaging effects of the Nebraska weather with our professional staining and sealing services. We use high-quality stains and sealants that are specifically designed to withstand the harsh elements and protect your deck from moisture, sun damage, and mildew. \n\nWe start by thoroughly cleaning your deck to remove any dirt, debris, and old coatings. We then apply a stain or sealant that will enhance the natural beauty of the wood and provide long-lasting protection. We offer a wide range of colors and finishes to suit your preferences. Our goal is to keep your deck looking its best for years to come.",
+        "process": [
+          "Step 1: Cleaning - Thoroughly clean your deck to remove dirt, debris, and old coatings.",
+          "Step 2: Preparation - Prepare the surface for staining or sealing.",
+          "Step 3: Application - Apply a high-quality stain or sealant.",
+          "Step 4: Inspection - Inspect the finished product to ensure quality."
+        ],
+        "benefits": [
+          "Protect your deck from the elements.",
+          "Enhance the natural beauty of your wood.",
+          "Extend the life of your deck.",
+          "Prevent mildew and rot."
+        ],
+        "faq": [
+          {
+            "question": "How often should I stain or seal my deck?",
+            "answer": "We recommend staining or sealing your deck every 2-3 years, depending on the weather conditions and the type of wood."
+          },
+          {
+            "question": "What type of stain or sealant should I use?",
+            "answer": "We can help you choose the right stain or sealant for your deck based on your preferences and the type of wood."
+          },
+          {
+            "question": "Can I stain or seal my deck myself?",
+            "answer": "While it is possible to stain or seal your deck yourself, we recommend hiring a professional to ensure a high-quality finish and long-lasting protection."
+          }
+        ]
+      },
+      {
+        "slug": "pergolas-patios",
+        "name": "Pergolas and Patios",
+        "shortDescription": "Enhance your outdoor living space with a custom pergola or patio.",
+        "description": "Beyond decks, Chandler and Chandler Construction crafts beautiful pergolas and patios to complete your backyard oasis. A custom-designed pergola provides shade and architectural interest, creating a perfect spot for relaxation or entertaining. We use durable materials like cedar or pressure-treated lumber to ensure your pergola stands up to Omaha's weather. \n\nOur patio construction service creates a solid, level surface for outdoor dining, lounging, or grilling. We offer a variety of materials, including pavers, concrete, and natural stone, to match your style and budget. We handle all aspects of the project, from design and excavation to installation and finishing touches. Let us transform your backyard into a stunning outdoor retreat.",
+        "process": [
+          "Step 1: Design Consultation - Discuss your vision and preferences for your pergola or patio.",
+          "Step 2: Site Preparation - Prepare the site for construction, including excavation and grading.",
+          "Step 3: Construction - Build the pergola or patio using high-quality materials and expert craftsmanship.",
+          "Step 4: Finishing Touches - Add the finishing touches to complete your outdoor space."
+        ],
+        "benefits": [
+          "Create a comfortable and inviting outdoor living space.",
+          "Add shade and architectural interest to your backyard.",
+          "Increase your home's value.",
+          "Enjoy outdoor dining and entertaining."
+        ],
+        "faq": [
+          {
+            "question": "How much does a pergola or patio cost?",
+            "answer": "The cost of a pergola or patio varies depending on the size, materials, and complexity of the design. We offer free consultations to provide you with a detailed quote."
+          },
+          {
+            "question": "How long does it take to build a pergola or patio?",
+            "answer": "The construction process typically takes 1-2 weeks, depending on the size and complexity of the project."
+          },
+          {
+            "question": "Do I need a permit for a pergola or patio?",
+            "answer": "Permit requirements vary depending on the size and location of the project. We can help you determine if a permit is required and handle the application process."
+          }
+        ]
+      },
+      {
+        "slug": "deck-lighting",
+        "name": "Deck Lighting Installation",
+        "shortDescription": "Illuminate your deck for enhanced safety and ambiance.",
+        "description": "Extend the usability of your deck into the evening hours with our professional deck lighting installation service. We offer a variety of lighting options, including recessed lighting, post cap lights, and string lights, to create a warm and inviting atmosphere. We use energy-efficient LED lights that are designed to last for years and withstand the elements. \n\nOur experienced electricians will safely and professionally install your deck lighting, ensuring that it meets all local electrical codes. We can also install timers and dimmers to control your deck lighting and create the perfect ambiance for any occasion. Enhance the safety and beauty of your deck with our expert lighting solutions.",
+        "process": [
+          "Step 1: Design Consultation - Discuss your lighting needs and preferences.",
+          "Step 2: Electrical Planning - Design the electrical system for your deck lighting.",
+          "Step 3: Installation - Install the deck lighting according to code.",
+          "Step 4: Testing - Test the lighting to ensure proper functionality."
+        ],
+        "benefits": [
+          "Enhance the safety and security of your deck.",
+          "Extend the usability of your deck into the evening hours.",
+          "Create a warm and inviting atmosphere.",
+          "Increase your home's value."
+        ],
+        "faq": [
+          {
+            "question": "What type of lighting is best for a deck?",
+            "answer": "LED lighting is a great option for decks due to its energy efficiency, long lifespan, and durability."
+          },
+          {
+            "question": "How much does deck lighting installation cost?",
+            "answer": "The cost of deck lighting installation varies depending on the type of lighting and the complexity of the installation. We offer free consultations to provide you with a detailed quote."
+          },
+          {
+            "question": "Do I need a permit for deck lighting?",
+            "answer": "Permit requirements vary depending on the scope of the electrical work. We can help you determine if a permit is required and handle the application process."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Omaha",
+        "slug": "omaha-ne",
+        "state": "NE",
+        "content": "Chandler and Chandler Construction is proud to offer our expert deck building services to the residents of Omaha, Nebraska. We understand the importance of a well-built and beautiful deck for enjoying the outdoors and enhancing your home's value. Our team is committed to providing top-quality craftsmanship and using only the best materials to ensure your deck lasts for years to come.\n\nWhether you're looking for a simple deck for grilling or a multi-level outdoor living space, Chandler and Chandler Construction can help you design and build the perfect deck to suit your needs and budget. We handle every aspect of the project, from initial design and permitting to final construction and cleanup, ensuring a smooth and stress-free experience for our clients. We are licensed and insured, and we stand behind our work.",
+        "localContext": "Omaha, known for its vibrant arts scene and thriving business sector, is a great place to enjoy outdoor living during the long summer months. We understand Omaha's unique climate and build decks to withstand the elements.",
+        "nearbyAreas": [
+          "Bellevue",
+          "Council Bluffs",
+          "Papillion"
+        ]
+      },
+      {
+        "city": "Bellevue",
+        "slug": "bellevue-ne",
+        "state": "NE",
+        "content": "Chandler and Chandler Construction extends its premier deck building services to Bellevue, Nebraska. Our goal is to provide Bellevue homeowners with exceptional decks that enhance their outdoor living experience. We focus on quality, durability, and aesthetic appeal, ensuring your new deck becomes a cherished part of your home.\n\nWe specialize in creating custom deck designs that complement the unique architectural styles found in Bellevue. From traditional wood decks to low-maintenance composite options, we offer a wide range of materials and styles to choose from. Our experienced team will work closely with you to bring your vision to life, delivering a deck that exceeds your expectations. We pride ourselves on clear communication and efficient project management from start to finish.",
+        "localContext": "Bellevue, a growing city just south of Omaha, offers a mix of suburban charm and convenient access to urban amenities. We want to help you make the most of your outdoor space in this thriving community.",
+        "nearbyAreas": [
+          "Papillion",
+          "La Vista",
+          "Omaha"
+        ]
+      },
+      {
+        "city": "Council Bluffs",
+        "slug": "council-bluffs-ne",
+        "state": "NE",
+        "content": "Residents of Council Bluffs, Iowa, can rely on Chandler and Chandler Construction for exceptional deck construction services. We are dedicated to building strong, beautiful decks that withstand the Iowa climate and provide years of enjoyment for your family and friends.\n\nWe understand the importance of a well-designed deck for outdoor entertaining and relaxation. Our team can help you create a custom deck that perfectly suits your lifestyle and enhances your property's value. We offer a variety of deck materials, including natural wood and low-maintenance composites, to meet your specific needs and preferences. We are committed to providing superior craftsmanship and excellent customer service in Council Bluffs and surrounding areas.",
+        "localContext": "Council Bluffs, with its rich history and beautiful riverfront, is a great place to enjoy outdoor living. We build decks that maximize your enjoyment of the Iowa landscape.",
+        "nearbyAreas": [
+          "Omaha",
+          "Carter Lake",
+          "Crescent"
+        ]
+      },
+      {
+        "city": "Papillion",
+        "slug": "papillion-ne",
+        "state": "NE",
+        "content": "Chandler and Chandler Construction is pleased to serve the community of Papillion, Nebraska, with our superior deck building services. We are committed to providing homeowners in Papillion with high-quality decks that enhance their outdoor living spaces and increase their property values.\n\nWe offer a wide range of deck designs and materials to suit your individual needs and preferences. Whether you're looking for a simple deck for grilling or a more elaborate outdoor living area, our team can help you create the perfect space. We handle all aspects of the project, from design and permitting to construction and cleanup, ensuring a seamless and stress-free experience for our clients. We are dedicated to providing exceptional craftsmanship and outstanding customer service in Papillion and the surrounding area.",
+        "localContext": "Papillion, known for its family-friendly atmosphere and excellent schools, is a great place to raise a family and enjoy the outdoors. We understand the needs of Papillion homeowners and build decks that are both functional and beautiful.",
+        "nearbyAreas": [
+          "La Vista",
+          "Bellevue",
+          "Gretna"
+        ]
+      },
+      {
+        "city": "La Vista",
+        "slug": "la-vista-ne",
+        "state": "NE",
+        "content": "Chandler and Chandler Construction brings expert deck building services to La Vista, Nebraska. We are dedicated to providing La Vista homeowners with durable, aesthetically pleasing decks that enhance their outdoor living spaces. Our focus is on quality craftsmanship and customer satisfaction.\n\nWe work closely with our clients to design and build custom decks that meet their specific needs and preferences. Whether you envision a cozy space for relaxing or a large deck for entertaining, we can bring your vision to life. We use only the highest quality materials and employ skilled craftsmen to ensure your deck is built to last. Let Chandler and Chandler Construction enhance your La Vista home with a beautiful new deck.",
+        "localContext": "La Vista, a thriving suburb of Omaha, offers a mix of residential and commercial areas. We understand the specific needs of La Vista homeowners and build decks that complement their lifestyles.",
+        "nearbyAreas": [
+          "Papillion",
+          "Ralston",
+          "Omaha"
+        ]
+      },
+      {
+        "city": "Gretna",
+        "slug": "gretna-ne",
+        "state": "NE",
+        "content": "Chandler and Chandler Construction is excited to offer our professional deck building services to the residents of Gretna, Nebraska. We understand that a well-designed and expertly built deck can significantly enhance your home and outdoor living experience. Our team is committed to providing top-notch craftsmanship and using high-quality materials to ensure your deck lasts for many years.\n\nWhether you're looking for a simple, functional deck or a more elaborate outdoor living space, Chandler and Chandler Construction can help you design and build the perfect deck to suit your needs and budget. We manage every stage of the project, from the initial design and necessary permits to the final construction and cleanup, ensuring a smooth and hassle-free experience for our clients. As a licensed and insured company, we stand firmly behind the quality of our work.",
+        "localContext": "Gretna, a rapidly growing community west of Omaha, offers a blend of small-town charm and modern amenities. We understand Gretna's unique character and build decks that complement the local landscape.",
+        "nearbyAreas": [
+          "Elkhorn",
+          "Waterloo",
+          "Papillion"
+        ]
+      },
+      {
+        "city": "Elkhorn",
+        "slug": "elkhorn-ne",
+        "state": "NE",
+        "content": "For homeowners in Elkhorn, Nebraska, Chandler and Chandler Construction provides top-tier deck building services. We recognize the value of a sturdy and attractive deck for enjoying the outdoors and improving the value of your property. Our team is dedicated to delivering exceptional craftsmanship and using only the finest materials to guarantee the longevity of your deck.\n\nWhether you're envisioning a basic deck for barbecues or a sophisticated, multi-level outdoor retreat, Chandler and Chandler Construction can assist you in designing and constructing the ideal deck to match your requirements and financial plan. We manage every aspect of the project, from the initial design and obtaining permits to the final construction and cleanup, ensuring a seamless and stress-free process for our clients. We are fully licensed and insured, and we take pride in the quality of our work.",
+        "localContext": "Elkhorn, a growing community known for its excellent schools and family-friendly environment, is a great place to enjoy outdoor living. We build decks that are both beautiful and functional, perfect for Elkhorn families.",
+        "nearbyAreas": [
+          "Bennington",
+          "Waterloo",
+          "Gretna"
+        ]
+      },
+      {
+        "city": "Ralston",
+        "slug": "ralston-ne",
+        "state": "NE",
+        "content": "Chandler and Chandler Construction proudly extends its deck building expertise to Ralston, Nebraska. Our commitment is to provide Ralston homeowners with exceptional decks that enhance their outdoor spaces and increase their home's value. We prioritize quality, durability, and aesthetic appeal to ensure your new deck becomes a cherished extension of your home.\n\nWe specialize in creating custom deck designs that complement the diverse architectural styles found in Ralston. From traditional wood decks to low-maintenance composite options, we offer a wide array of materials and styles to choose from. Our experienced team will collaborate closely with you to bring your vision to life, delivering a deck that surpasses your expectations. We pride ourselves on clear communication and efficient project management from start to finish.",
+        "localContext": "Ralston, a vibrant city with a strong sense of community, offers a variety of outdoor activities and events. We help you make the most of your outdoor space with a custom-built deck.",
+        "nearbyAreas": [
+          "La Vista",
+          "Omaha",
+          "Boys Town"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Deck Construction & Installation",
+        "text": "Chandler and Chandler built our new deck this spring, and we couldn't be happier! They were professional, efficient, and the quality of work is outstanding. We especially appreciated their attention to detail and how they kept the worksite clean. Highly recommend!",
+        "date": "2024-07-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Deck Repair & Restoration",
+        "text": "Our old deck was in rough shape after a couple of harsh Omaha winters. Chandler and Chandler came in and replaced several damaged boards and re-stained the whole thing. It looks almost new! They were upfront about the costs and finished the job on time.",
+        "date": "2024-08-02"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Custom Deck Design",
+        "text": "We had a very specific vision for our deck, and Chandler and Chandler helped us bring it to life. Their design team was creative and patient, and they made sure we were happy with every detail before construction started. The finished product is exactly what we wanted!",
+        "date": "2024-09-10"
+      },
+      {
+        "name": "Tom B.",
+        "rating": 5,
+        "service": "Deck Staining & Sealing",
+        "text": "Great service! Chandler and Chandler stained and sealed our deck this summer. They did a great job protecting it from the elements. Very professional and quick!",
+        "date": "2024-06-22"
+      },
+      {
+        "name": "Amy S.",
+        "rating": 4,
+        "service": "Pergolas and Patios",
+        "text": "Chandler and Chandler built a beautiful patio in our backyard. It's the perfect space for entertaining. They were very professional and easy to work with.",
+        "date": "2024-10-01"
+      },
+      {
+        "name": "Kevin R.",
+        "rating": 5,
+        "service": "Deck Lighting Installation",
+        "text": "We needed more light in our backyard and Chandler and Chandler installed deck lighting. It looks great and we've had no issues. They were very quick and professional.",
+        "date": "2024-11-15"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Omaha Deck Builder | Chandler & Chandler",
+        "description": "Top-rated deck builders in Omaha, NE. Custom designs, expert construction, and reliable repairs. Free quotes!"
+      },
+      "about": {
+        "title": "About Us | Chandler & Chandler Construction",
+        "description": "Learn about Chandler & Chandler Construction's commitment to quality and community in Omaha, Nebraska."
+      },
+      "services": {
+        "title": "Deck Services | Omaha, NE | Chandler & Chandler",
+        "description": "Comprehensive deck services in Omaha: Design, construction, repair, staining, and more. Contact us today!"
+      },
+      "contact": {
+        "title": "Contact Us | Chandler & Chandler Construction",
+        "description": "Contact Chandler & Chandler Construction for a free quote on your deck project in Omaha, NE."
+      },
+      "reviews": {
+        "title": "Reviews | Chandler & Chandler Construction",
+        "description": "See what our satisfied customers are saying about Chandler & Chandler Construction in Omaha, NE."
+      },
+      "service-areas": {
+        "title": "Service Areas | Chandler & Chandler Construction",
+        "description": "Chandler & Chandler Construction provides deck services in Omaha and surrounding Nebraska communities."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "deck-design": "/images/service-deck-design.webp",
+      "deck-construction": "/images/service-deck-construction.webp",
+      "deck-repair": "/images/service-deck-repair.webp",
+      "deck-staining": "/images/service-deck-staining.webp",
+      "pergolas-patios": "/images/service-pergolas-patios.webp",
+      "deck-lighting": "/images/service-deck-lighting.webp"
+    },
+    "servicesResponsive": {
+      "deck-design": {
+        "src": "/images/service-deck-design.webp",
+        "srcset": "/images/service-deck-design-400w.webp 400w, /images/service-deck-design-800w.webp 800w, /images/service-deck-design-1200w.webp 1200w, /images/service-deck-design.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "deck-construction": {
+        "src": "/images/service-deck-construction.webp",
+        "srcset": "/images/service-deck-construction-400w.webp 400w, /images/service-deck-construction-800w.webp 800w, /images/service-deck-construction-1200w.webp 1200w, /images/service-deck-construction.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "deck-repair": {
+        "src": "/images/service-deck-repair.webp",
+        "srcset": "/images/service-deck-repair-400w.webp 400w, /images/service-deck-repair-800w.webp 800w, /images/service-deck-repair-1200w.webp 1200w, /images/service-deck-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "deck-staining": {
+        "src": "/images/service-deck-staining.webp",
+        "srcset": "/images/service-deck-staining-400w.webp 400w, /images/service-deck-staining-800w.webp 800w, /images/service-deck-staining-1200w.webp 1200w, /images/service-deck-staining.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "pergolas-patios": {
+        "src": "/images/service-pergolas-patios.webp",
+        "srcset": "/images/service-pergolas-patios-400w.webp 400w, /images/service-pergolas-patios-800w.webp 800w, /images/service-pergolas-patios-1200w.webp 1200w, /images/service-pergolas-patios.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "deck-lighting": {
+        "src": "/images/service-deck-lighting.webp",
+        "srcset": "/images/service-deck-lighting-400w.webp 400w, /images/service-deck-lighting-800w.webp 800w, /images/service-deck-lighting-1200w.webp 1200w, /images/service-deck-lighting.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}

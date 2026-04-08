@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-chandler-and-chandler-construction.dream-surge.com/sitemap-index.xml
